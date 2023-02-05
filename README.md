@@ -6,7 +6,7 @@ Eine Sammlung von Fragen + Anworten - nur mal schnell zusammengetragen. Ohne wei
 
 Zu Fragen sollte es auch immer eine passende Antwort geben. Keine Raterei, wenn keine Lösung in Sicht ist.
 
-**KEINE URLs im Text, die nichts mit Redaxo- bzw. FOR-Seiten zu tun haben !!!**
+💥 **KEINE URLs im Text, die nichts mit Redaxo- bzw. FOR-Seiten zu tun haben !!!** 💥
 
 
 ## Aufbau der Dateinamen 
