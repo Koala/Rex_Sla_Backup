@@ -11,7 +11,7 @@ minTime: "08:00:00",
 maxTime: "18:00:00"'
 
 :+1: das funzt - aber die Wochenansicht bekomme ich nicht hin...
-muss mich später wohl nochmal in die Docs von 
+muss mich später wohl nochmal in die Docs von https://fullcalendar.io/ einlesen.
 
 timeGridPlugin
 
