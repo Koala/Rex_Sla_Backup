@@ -1,3 +1,6 @@
+--- 
+Tags: 
+--- 
 DATUM
 
 # Überschrift (entsprechend dem Dateinamen)
