@@ -20,6 +20,7 @@ Auch wenn auf eine Fehlerausgabe einer Seite verwiesen wird, muss das ausgelasse
 - "sprechende" Dateinamen mit Hinweis auf die Frage
     - Worte im Dateinamen mit Bindestrich verbunden (wenn es kein eigenständiger Name/Begriff ist)
     - sollte eine Frage/Thema mehrfach vorkommen, dann mit "-1", "-2" usw. den Dateinamen erweitern
+    - keine Umlaute im Dateinamen (ä, ö, ü, ß); stattdessen die Langform verwenden (ae, oe, ue, ss)
 
 
 ## Aufbau der Seiten
