@@ -10,6 +10,7 @@ Zu Fragen sollte es auch immer eine passende Antwort geben. Keine Raterei, wenn 
 
 Auch wenn auf eine Fehlerausgabe einer Seite verwiesen wird, muss das ausgelassen werden. Dann besser nur die Fehlermeldung mit vermerken.
 
+---
 
 ## Aufbau der Dateinamen 
 
@@ -17,7 +18,7 @@ Auch wenn auf eine Fehlerausgabe einer Seite verwiesen wird, muss das ausgelasse
     - der Bildname muss der Frage/Antwort-Datei entsprechen
     - mehre Bilder werden nach dem Namen und vor dem Datum mit "-1-", "-2-" usw. erweitert
     - das Datum muss das gleiche sein wie in der Frage/Antwort-Datei
-- "sprechende" Dateinamen mit Hinweis auf die Frage
+- andere Dateien: "sprechende" Dateinamen mit Hinweis auf die Frage
     - Worte im Dateinamen mit Bindestrich verbunden (wenn es kein eigenständiger Name/Begriff ist)
     - sollte eine Frage/Thema mehrfach vorkommen, dann mit "-1", "-2" usw. den Dateinamen erweitern
     - keine Umlaute im Dateinamen (ä, ö, ü, ß); stattdessen die Langform verwenden (ae, oe, ue, ss)
@@ -25,15 +26,20 @@ Auch wenn auf eine Fehlerausgabe einer Seite verwiesen wird, muss das ausgelasse
 
 ## Aufbau der Seiten
 
-- am Anfang der Seite das Datum der Fragestellung: 03.02.2023
-- Überschrift sollte dem Dateinamen entsprechen: # ForCal-Wochenansicht
+Siehe __Vorlage.md
+
+- Tags im Kommentarbereich am Anfang der Datei
+- Datum der Fragestellung: 03.02.2023
+- Überschrift sollte möglichst dem Dateinamen entsprechen: # ForCal-Wochenansicht
 - sollte es eine Lösung oder einer direkter Bezug zur Tricksabteilung von [FOR](https://friendsofredaxo.github.io/tricks/) geben, dann den Link dazu direkt unter die Überschrift
 - zwei Abschnitte: ## Frage || # Antwort
-    - allgemeine Hinweise ohne Frage/Antwort Bereiche
+    - allgemeine Hinweise ohne Frage/Antwort Bereiche erstellen
 
 
 
+---
 
+### Links
 
 https://gist.github.com/rxaviers/7360908
 
