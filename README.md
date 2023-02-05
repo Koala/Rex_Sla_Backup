@@ -10,8 +10,9 @@ Zu Fragen sollte es auch immer eine passende Antwort geben. Keine Raterei, wenn 
 
 - Bilder: Bildname + angehangenem Datum in der Form YYMMDD
     - der Bildname muss der Frage/Antwort-Datei entsprechen
-    - mehre Bilder werden nach dem Namen und vor dem Datum mit "-1-", "-2-" usw. erweitern
-- "Sprechende" Dateinamen mit Hinweis auf die Frage
+    - mehre Bilder werden nach dem Namen und vor dem Datum mit "-1-", "-2-" usw. erweitert
+    - das Datum muss das gleiche sein wie in der Frage/Antwort-Datei
+- "sprechende" Dateinamen mit Hinweis auf die Frage
     - sollte eine Frage/Thema mehrfach vorkommen, dann mit "-1", "-2" usw. den Dateinamen erweitern
 
 
