@@ -6,6 +6,9 @@ Eine Sammlung von Fragen + Anworten - nur mal schnell zusammengetragen. Ohne wei
 
 Zu Fragen sollte es auch immer eine passende Antwort geben. Keine Raterei, wenn keine Lösung in Sicht ist.
 
+**KEINE URLs im Text, die nichts mit Redaxo- bzw. FOR-Seiten zu tun haben !!!**
+
+
 ## Aufbau der Dateinamen 
 
 - Bilder: Bildname + angehangenem Datum in der Form YYMMDD
@@ -27,3 +30,9 @@ Zu Fragen sollte es auch immer eine passende Antwort geben. Keine Raterei, wenn 
 
 
 
+https://gist.github.com/rxaviers/7360908
+
+GitHub Emoji Picker:
+https://github-emoji-picker.vercel.app/
+
+https://emojii.org/
