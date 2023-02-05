@@ -25,6 +25,7 @@ Auch wenn auf eine Fehlerausgabe einer Seite verwiesen wird, muss das ausgelasse
 
 - am Anfang der Seite das Datum der Fragestellung: 03.02.2023
 - Überschrift sollte dem Dateinamen entsprechen: # ForCal-Wochenansicht
+- sollte es eine Lösung oder einer direkter Bezug zur Tricksabteilung von [FOR](https://friendsofredaxo.github.io/tricks/) geben, dann den Link dazu direkt unter die Überschrift
 - zwei Abschnitte: ## Frage || # Antwort
     - allgemeine Hinweise ohne Frage/Antwort Bereiche
 
