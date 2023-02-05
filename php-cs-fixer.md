@@ -1,5 +1,12 @@
 FOR-Tricks: https://friendsofredaxo.github.io/tricks/development/editor-vscode
 
+## eins
+Das Fixer-Ding in der Demo ist vermutlich (hab es nicht geprüft) veraltet. Die aktuelle Fassung steht in einem GH-Repo, Die Einbindung in VS-Code läuft auch etwas anders. Ich habe meine Anmerkungen dazu schon in dem anderen Thread gepostet. https://friendsofredaxo.slack.com/archives/C1BAXLN2F/p1675502865852319?thread_ts=1674716459.268849&cid=C1BAXLN2F
+
+
+
+
+## zwei
 Das ist teilweise veraltet. Schau auch mal hier rein.Bei mir auf dem Mac hab ich es am Ende so installiert (zumindest sagen das meine Notizen):https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer
 https://github.com/redaxo/php-cs-fixer-config
 
