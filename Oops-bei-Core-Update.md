@@ -13,5 +13,9 @@ ich verzweifle gerade an einem Update... Beim Versuch, den Core von 5.11.2 auf e
 
 
 ## Antwort
+vor dem Update des Cores am besten immer die AddOns aktualisieren
+
+Lösch mal per FTP den Cache vom Core. Das hilft bei mir immer, wenn der Fehler kommt.
+
 
 
