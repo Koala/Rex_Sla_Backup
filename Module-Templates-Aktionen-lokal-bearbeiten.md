@@ -1,6 +1,6 @@
---- 
-Tags: #PHPStorm #VSCode #IDE
---- 
+---
+Tags: PHPStorm, VSCode, IDE
+---
 04.01.2022
 
 # Module, Templates, Aktionen lokal bearbeiten
