@@ -1,5 +1,5 @@
 ---
-tags: sql
+tags: sql, ctype
 ---
 
 08.02.2023
