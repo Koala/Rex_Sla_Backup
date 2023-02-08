@@ -6,6 +6,11 @@ Eine Sammlung von Fragen + Anworten - nur mal schnell zusammengetragen. Ohne wei
 
 Zu Fragen sollte es auch immer eine passende Antwort geben. Keine Raterei, wenn keine Lösung in Sicht ist.
 
+--- 
+Dieses Repo kann mit [[https://obsidian.md/|Obsidian]] geöffnet werden.
+
+--- 
+
 💥 **KEINE URLs im Text, die nichts mit Redaxo-Seiten, FOR-Seiten oder Addon/Plugin-Seiten mit direktem Bezug zu Redaxo zu tun haben !!!** 💥
 
 Auch wenn auf eine Fehlerausgabe einer Seite verwiesen wird, muss das ausgelassen werden. Dann besser nur die Fehlermeldung mit vermerken.
