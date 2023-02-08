@@ -7,7 +7,7 @@ Eine Sammlung von Fragen + Anworten - nur mal schnell zusammengetragen. Ohne wei
 Zu Fragen sollte es auch immer eine passende Antwort geben. Keine Raterei, wenn keine Lösung in Sicht ist.
 
 --- 
-Dieses Repo kann mit [[https://obsidian.md/|Obsidian]] geöffnet werden.
+Dieses Repo kann mit https://obsidian.md geöffnet werden.
 
 --- 
 
