@@ -1,6 +1,7 @@
---- 
-Tags: 
---- 
+---
+tags: ForCal, 
+---
+
 03.02.2023
 
 # ForCal-Wochenansicht
@@ -10,21 +11,30 @@ kriege ich ForCal irgendwie dazu im Frontend initial (und ausschließlich) eine 
 
 
 ## Antwort
+```
 minTime: "08:00:00",
 maxTime: "18:00:00"'
+```
 
 :+1: das funzt - aber die Wochenansicht bekomme ich nicht hin...
 muss mich später wohl nochmal in die Docs von https://fullcalendar.io/ einlesen.
 
+```
 timeGridPlugin
+```
 
 Ha!
-plugins: ['timeGrid'],
+```
+plugins: ['timeGrid']
+```
 in Hochkommata funzt
 
 PS: das scheint zu gehen:
-     slotMinTime: '08:00:00',
-    slotMaxTime: '18:00:00'
+```
+slotMinTime: '08:00:00',
+slotMaxTime: '18:00:00'
+```
+
 
 Wobei es wohl max 19 sein muss
 
