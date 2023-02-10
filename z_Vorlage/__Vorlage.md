@@ -2,7 +2,7 @@
 tags: 
 ---
 
-DATUM
+{{date:DD.MM.YYYY}}
 
 # Überschrift (entsprechend dem Dateinamen)
 
