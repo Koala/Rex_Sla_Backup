@@ -11,7 +11,7 @@ tags: sql
 
 ```rex_sql_exception```:  Wie finde ich nun nochmal raus, was diesen Fehler auslöst
 
-![[rex_sql_exception.png]]
+![[rex_sql_exception_20230208.png]]
 
 ## Antwort
 
