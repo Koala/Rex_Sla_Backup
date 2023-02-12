@@ -9,6 +9,49 @@ Die angegebenen Beschreibungen stammen jeweils von den Seiten der Extensions.
 
 ## Basis Extensions - solltest du installiert haben
 
+### Composer
+letzte Linkprüfung: 12.02.2023
+letzte Code Änderung: 08.02.2023
+https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode
+
+Composer _"All-in-One"_ provides complete integration of **composer** and **packagist** into Visual Studio Code. The extension provides quick `composer` commands, IntelliSense for `composer.json`, code lenses, code actions, schema validation, browsing and searching packages, checking abandoned packages, running user scripts, and it extends VS Code with `composer` tasks.
+
+
+### PHP
+letzte Linkprüfung: 12.02.2023
+letzte Code Änderung: 10.02.2023
+https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode
+
+**PHP Tools for VS Code** is a full development integration for the PHP language. The features are provided respecting conventions, stability, simple use, and performance. Please see the product page for more details on [devsense.com](https://www.devsense.com/features#vscode).
+
+This package extends VS Code with fast code completion, advanced editor features, code fixes, code lenses, code generators, debugger, built-in development web server, test explorer, tests debugger, and workspace-wide code analysis.
+
+
+### Prettier - Code formatter
+letzte Linkprüfung: 12.02.2023
+letzte Code Änderung: 11.01.2023
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+[Prettier](https://prettier.io/) is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
+
+### SQLTools
+letzte Linkprüfung: 12.02.2023
+letzte Code Änderung: 11.01.2023
+https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools
+
+Welcome to Database Management done right. SQLTools provides connections to many of the most commonly used databases, making it easier to work with your data. With this tool, developers will save (a lot of) time, increase productivity and feel like a database hero ✌️
+
+
+### YAML
+letzte Linkprüfung: 12.02.2023
+letzte Code Änderung: 09.01.2023
+https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
+
+Provides comprehensive YAML Language support to [Visual Studio Code](https://code.visualstudio.com/), via the [yaml-language-server](https://github.com/redhat-developer/yaml-language-server), with built-in Kubernetes syntax support.
+
+
+--- 
 
 
 ## optionale Extensions - erleichtern die Arbeit
@@ -19,16 +62,16 @@ letzte Code Änderung:
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
 
-### Indent-rainbow
+### Indent-Rainbow
 letzte Linkprüfung: 12.02.2023
-letzte Code Änderung: 
+letzte Code Änderung: 10.04.2022
 https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
 A simple extension to make indentation more readable
 
 
 ### Color Manager
 letzte Linkprüfung: 12.02.2023
-letzte Code Änderung: 
+letzte Code Änderung: 31.05.2022
 https://marketplace.visualstudio.com/items?itemName=RoyAction.color-manager
 #### Description
 
@@ -48,7 +91,7 @@ The model of the color picker is different to the one in vscode. It's a recreati
 
 ### Remote SSH
 letzte Linkprüfung: 12.02.2023
-letzte Code Änderung: 
+letzte Code Änderung: 02.02.2023
 https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
 The **Remote - SSH** extension lets you use any remote machine with a SSH server as your development environment. This can greatly simplify development and troubleshooting in a wide variety of situations. You can:
 
@@ -71,7 +114,7 @@ GitLens is **powerful**, **feature rich**, and [highly customizable](https://
 
 ### TODO Highlight
 letzte Linkprüfung: 12.02.2023
-letzte Code Änderung: 19.10.2021
+letzte Code Änderung: 29.10.2021
 https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
 Highlight `TODO`, `FIXME` and other annotations within your code.
 
@@ -80,6 +123,7 @@ Sometimes you forget to review the TODOs you've added while coding before you pu
 
 ### Todo Tree
 letzte Linkprüfung: 12.02.2023
+letzte Code Änderung: 09.02.2023
 https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 This extension quickly searches (using [ripgrep](https://github.com/BurntSushi/ripgrep)) your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the activity bar. The view can be dragged out of the activity bar into the explorer pane (or anywhere else you would prefer it to be).
 
