@@ -14,7 +14,7 @@ Gibt es einen ExtensionPoint der auf Artikeländerungen reagiert.
 
 ## Antwort
 
-ART_CONTENT_UPDATED
+```ART_CONTENT_UPDATED```
 
 - wobei der an ganz vielen stellen greift.  
 gibt aber einen param “action” oder so im ep, worüber man auslesen kann, welcher grund es genau ist fürs content-update
