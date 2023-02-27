@@ -17,14 +17,15 @@
         "createInSameFolderAsActiveFile": false
       },
       "appendLink": false,
-      "incrementFileName": false,
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
         "focus": true
       },
       "openFile": true,
-      "openFileInMode": "default"
+      "openFileInMode": "default",
+      "setFileExistsBehavior": true,
+      "fileExistsMode": "Increment the file name"
     }
   ],
   "macros": [
@@ -53,14 +54,15 @@
               "createInSameFolderAsActiveFile": false
             },
             "appendLink": false,
-            "incrementFileName": false,
             "openFileInNewTab": {
               "enabled": false,
               "direction": "vertical",
               "focus": true
             },
             "openFile": false,
-            "openFileInMode": "default"
+            "openFileInMode": "default",
+            "setFileExistsBehavior": true,
+            "fileExistsMode": "Increment the file name"
           }
         }
       ],
@@ -68,5 +70,12 @@
     }
   ],
   "inputPrompt": "single-line",
-  "devMode": false
+  "devMode": false,
+  "templateFolderPath": "z_Vorlage",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true
+  }
 }
