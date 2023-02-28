@@ -1,6 +1,7 @@
---- 
-Tags: 
---- 
+---
+tags: php-cs-fixer
+---
+
 05.02.2023
 
 # php-cs-fixer
@@ -8,12 +9,14 @@ FOR-Tricks: https://friendsofredaxo.github.io/tricks/development/editor-vscode
 
 
 ## Hinweis 1
+
 Das Fixer-Ding in der Demo ist vermutlich (hab es nicht geprüft) veraltet. Die aktuelle Fassung steht in einem GH-Repo, Die Einbindung in VS-Code läuft auch etwas anders. Ich habe meine Anmerkungen dazu schon in dem anderen Thread gepostet. https://friendsofredaxo.slack.com/archives/C1BAXLN2F/p1675502865852319?thread_ts=1674716459.268849&cid=C1BAXLN2F
 
 
 
 
 ## Hinweis 2
+
 Das ist teilweise veraltet. Schau auch mal hier rein.Bei mir auf dem Mac hab ich es am Ende so installiert (zumindest sagen das meine Notizen):https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer
 https://github.com/redaxo/php-cs-fixer-config
 
@@ -30,7 +33,7 @@ return include getenv('HOME').'/vendor/redaxo/php-cs-fixer-config/.php-cs-fixer.
 
 Der PHP CS Fixer wird in den settings so konfiguriert, dass die Redaxo-Einstellungen nachgelagert zu Einstellungen in den jeweiligen VSC-Workspaces geladen werden:
 
-``` 
+```yaml
 {
     "php-cs-fixer.config": ".php-cs-fixer.php;.php-cs-fixer.dist.php;~/.vscode/.php-cs-fixer.php",
     "[php]": {
