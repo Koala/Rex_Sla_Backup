@@ -15,7 +15,7 @@ Wie kann ich am einfachsten alle Artikel auf den Startartikel umleiten (Seitensc
 
 das ins template?
 
-``` 
+```php
 if(rex_article::getCurrentId() != rex_article::getSiteStartArticleId()) {
 	header(‚Location: https://abc.de‘);
 exit;
