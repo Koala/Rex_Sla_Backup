@@ -1,5 +1,5 @@
 ---
-Tags: 
+tags: Mediamanager
 ---
 
 06.02.2023
@@ -10,7 +10,7 @@ Tags:
 ## Frage
 Woran kann denn so ein Fehler im Log zustande kommen?
 
-```
+```php
 Allowed memory size of 83886080 bytes exhausted (tried to allocate 24576 bytes)
  redaxo/src/addons/media_manager/lib/managed_media.php
 ```
