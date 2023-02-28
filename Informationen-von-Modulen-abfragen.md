@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: rex_module, rex_sql
 ---
 
 08.02.2023
@@ -9,7 +9,7 @@ tags:
 
 ## Frage
 
-Gibt es etwas wie rex_module::get($id) um Infos über das Modul zu bekommen (nicht den Slice). Als z.B. Modulnamen, key oder updatedate…
+Gibt es etwas wie `rex_module::get($id)` um Infos über das Modul zu bekommen (nicht den Slice). Als z.B. Modulnamen, key oder updatedate…
 
 
 ## Antwort
