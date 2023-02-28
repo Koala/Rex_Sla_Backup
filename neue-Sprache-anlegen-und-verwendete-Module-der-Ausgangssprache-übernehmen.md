@@ -1,6 +1,7 @@
+---
+tags: SPROG
 --- 
-Tags: 
---- 
+
 03.01.2022
 
 # neue Sprache anlegen und verwendete Module der Ausgangssprache übernehmen 
