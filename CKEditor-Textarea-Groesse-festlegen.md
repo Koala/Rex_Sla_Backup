@@ -23,6 +23,19 @@ $field = $form->addTextAreaField('project_text', $value = null, $attributes);
 
 ## Antwort
 
-Das machst du in den Profileinstellungen vom CKEditor...
+- Das machst du in den Profileinstellungen vom CKEditor...
 
 ![[CKEditor-Textarea-Groesse-festlegen_20230227.png]]
+
+- Und es geht auch mit den folgenden Attributen:  
+
+```php
+$attributes = array(
+        ‘class’ => ‘form-control cke5-editor’,
+        ‘data-profile’ => ‘nice’,
+        ‘data-max-height’ => 400,
+        ‘data-min-height’ => 200
+    );
+```
+
+Danke für den Hinweis hat geholfen.
