@@ -1,5 +1,5 @@
 ---
-Tags: 
+tags: Medienpool, rex_url, rex_i18n
 ---
 
 06.01.2022
@@ -16,7 +16,7 @@ das form (core/form/form.php) fragment in das project addon kopieren und dort ch
 
 dort dann im oberen teil, vor dem output:
 
-```
+```php
 $el = null;
 if(rex_url::currentBackendPage() === 'index.php?page=mediapool/media') {
  $exchangeTitle = rex_i18n::msg('pool_file_exchange');
@@ -32,7 +32,7 @@ if(rex_url::currentBackendPage() === 'index.php?page=mediapool/media') {
 
 und im loop:
 
-```
+```php
 if($el && $element == $el[0]) {
  continue;
 }
@@ -43,7 +43,7 @@ nicht schön, sollte aber funktionieren
 
 habe die Datei form.php hier hin kopiert redaxo/src/addons/project
 
-```
+```php
 if(rex_url::currentBackendPage() === 'index.php?page=mediapool/media') {
  $exchangeTitle = rex_i18n::msg('pool_file_exchange');
  $el = array_filter($this->elements, function ($element) use ($exchangeTitle) {
@@ -102,7 +102,6 @@ echo $out;
 ```
 
 
-die form.php muss im gleichen ordner liegen wie im core
-
-redaxo/src/addons/project/fragments/core/form/form.php
+die `form.php` muss im gleichen ordner liegen wie im core
+`redaxo/src/addons/project/fragments/core/form/form.php`
 
