@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: yrewrite_image, seo-getImage
 ---
 
 24.02.2023
@@ -9,7 +9,7 @@ tags:
 
 ## Frage
 
-Wie kommt man denn easy peasy an das $seo-getImage() Value des Startartikels der dem aktuellen Artikel übergeordneten Kategorie?
+Wie kommt man denn easy peasy an das `$seo-getImage()` Value des Startartikels der dem aktuellen Artikel übergeordneten Kategorie?
 
 ## Antwort
 
