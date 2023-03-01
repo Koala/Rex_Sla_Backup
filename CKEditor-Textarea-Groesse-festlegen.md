@@ -38,4 +38,3 @@ $attributes = array(
     );
 ```
 
-Danke für den Hinweis hat geholfen.
