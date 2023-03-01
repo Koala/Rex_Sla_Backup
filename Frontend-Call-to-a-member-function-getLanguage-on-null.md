@@ -1,5 +1,5 @@
 ---
-tags: Frontend, getLanguage, Whooops
+tags: Frontend, getLanguage, Whoops
 ---
 
 28.02.2023
