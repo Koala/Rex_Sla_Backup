@@ -1,8 +1,6 @@
 ---
 tags: YCOM, Freigabe, Rechte
-GTags: #YCOM #Freigabe #Rechte
 ---
-#YCOM #Freigabe #Rechte 
 
 10.03.2023
 
