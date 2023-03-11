@@ -21,5 +21,5 @@ Seh ich das richtig dass der EP  ```ART_UPDATED``` nicht aufgerufen wird wenn ic
 
 Für alle Content-Änderungen gibt es einen zentralen EP `ART_CONTENT_UPDATED`.  
 der greift bei neuen slices, veränderten slices, slice on/off, arbeitsversion/live, etc
-[[auf-Aenderungen-in-Artikeln-reagieren-per-EP#Antwort|Siehe: auf Änderungen in Artikeln reagieren per ExtensionPoint]]
+[[EP-auf-Aenderungen-in-Artikeln-reagieren-per-EP#Antwort|Siehe: auf Änderungen in Artikeln reagieren per ExtensionPoint]]
 
