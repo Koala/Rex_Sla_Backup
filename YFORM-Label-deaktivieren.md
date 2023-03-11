@@ -1,10 +1,10 @@
 ---
-tags: yform, Platzhalter
+tags: YFORM, Platzhalter
 ---
 
 21.02.2023
 
-# yform - Label deaktivieren?
+# YFORM - Label deaktivieren?
 
 
 ## Frage

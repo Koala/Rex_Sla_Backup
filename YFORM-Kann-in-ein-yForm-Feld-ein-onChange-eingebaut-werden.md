@@ -1,5 +1,5 @@
 ---
-tags: yForm, onChange
+tags: YFORM, onChange
 ---
 
 28.02.2023
@@ -15,7 +15,8 @@ Kann ich in ein yForm Feld ein "onChange" einbauen?
 $yform->setValueField(
             'email',
             ['email', '###business_email###', '#required:required', '#type:email', '#autocomplete:email', '#onChange:checkEmailDomain(this)']
-        );```
+        );
+```
 
 So geht's leider nicht.
 
