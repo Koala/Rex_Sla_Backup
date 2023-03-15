@@ -6,3 +6,4 @@
 .trash/
 .obsidian/core-plugins.json
 .obsidian/icons/**
+.obsidian/plugins/recent-files-obsidian/data.json
