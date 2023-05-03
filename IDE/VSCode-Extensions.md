@@ -146,5 +146,31 @@ https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
 Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor.
 
 
+### Quokka
+letzte Linkprüfung: xx.xx.2023
+letzte Code Änderung: xx.xx.2022
 
 
+### Auto Rename Tag
+letzte Linkprüfung: xx.xx.2023
+letzte Code Änderung: xx.xx.2022
+
+
+
+
+### Better Comments
+letzte Linkprüfung: xx.xx.2023
+letzte Code Änderung: xx.xx.2022
+
+
+
+### v
+letzte Linkprüfung: xx.xx.2023
+letzte Code Änderung: xx.xx.2022
+
+
+
+
+### v
+letzte Linkprüfung: xx.xx.2023
+letzte Code Änderung: xx.xx.2022
