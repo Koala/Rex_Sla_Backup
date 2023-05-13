@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VSCode-Extensions",
+      "path": "IDE/VSCode-Extensions.md"
+    },
+    {
       "basename": "Addon-redaxo_cheatsheet",
       "path": "Addon-redaxo_cheatsheet.md"
     }
