@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Addon-redaxo_cheatsheet",
+      "path": "Addon-redaxo_cheatsheet.md"
+    },
+    {
+      "basename": "Whoops-bei-Core-Update",
+      "path": "Whoops-bei-Core-Update.md"
+    },
+    {
       "basename": "YFORM-Kann-in-ein-yForm-Feld-ein-onChange-eingebaut-werden",
       "path": "YFORM-Kann-in-ein-yForm-Feld-ein-onChange-eingebaut-werden.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Backend-rex_url-anstatt-rex_getUrl",
       "path": "Backend-rex_url-anstatt-rex_getUrl.md"
-    },
-    {
-      "basename": "Addon-redaxo_cheatsheet",
-      "path": "Addon-redaxo_cheatsheet.md"
     },
     {
       "basename": "Was-ist-ein-Slice",
