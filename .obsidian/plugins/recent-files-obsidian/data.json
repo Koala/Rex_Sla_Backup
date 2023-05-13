@@ -13,6 +13,14 @@
       "path": "YFORM-Label-deaktivieren.md"
     },
     {
+      "basename": "Schreibrechte-Dateien-Verzeichnisse",
+      "path": "Schreibrechte-Dateien-Verzeichnisse.md"
+    },
+    {
+      "basename": "YFORM-Kann-in-ein-yForm-Feld-ein-onChange-eingebaut-werden",
+      "path": "YFORM-Kann-in-ein-yForm-Feld-ein-onChange-eingebaut-werden.md"
+    },
+    {
       "basename": "EP-auf-Aenderungen-in-Artikeln-reagieren-per-EP",
       "path": "EP-auf-Aenderungen-in-Artikeln-reagieren-per-EP.md"
     },
