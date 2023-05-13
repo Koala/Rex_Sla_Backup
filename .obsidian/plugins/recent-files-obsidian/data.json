@@ -2,6 +2,7 @@
   "recentFiles": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "basename": "Schreibrechte-Dateien-Verzeichnisse",
       "path": "Schreibrechte-Dateien-Verzeichnisse.md"
     },
@@ -10,10 +11,13 @@
       "path": "YFORM-Label-deaktivieren.md"
     },
     {
+=======
+>>>>>>> 76df33d338c940cc3aec14027d73f651ac9be230
       "basename": "VSCode-Extensions",
       "path": "IDE/VSCode-Extensions.md"
     },
     {
+<<<<<<< HEAD
       "basename": "YFORM-Kann-in-ein-yForm-Feld-ein-onChange-eingebaut-werden",
       "path": "YFORM-Kann-in-ein-yForm-Feld-ein-onChange-eingebaut-werden.md"
     },
@@ -60,6 +64,8 @@
     {
 =======
 >>>>>>> 98646d8ff23472b1d3c1a60c8f76f9ffa6e28e03
+=======
+>>>>>>> 76df33d338c940cc3aec14027d73f651ac9be230
       "basename": "Addon-redaxo_cheatsheet",
       "path": "Addon-redaxo_cheatsheet.md"
     }
