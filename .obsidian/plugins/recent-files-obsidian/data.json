@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Schreibrechte-Dateien-Verzeichnisse",
       "path": "Schreibrechte-Dateien-Verzeichnisse.md"
     },
@@ -57,24 +58,10 @@
       "path": "Backend-rex_url-anstatt-rex_getUrl.md"
     },
     {
+=======
+>>>>>>> 98646d8ff23472b1d3c1a60c8f76f9ffa6e28e03
       "basename": "Addon-redaxo_cheatsheet",
       "path": "Addon-redaxo_cheatsheet.md"
-    },
-    {
-      "basename": "Was-ist-ein-Slice",
-      "path": "Was-ist-ein-Slice.md"
-    },
-    {
-      "basename": "YCOM-Artikel-fuer-angemeldete-Benutzer-freigeben",
-      "path": "YCOM-Artikel-fuer-angemeldete-Benutzer-freigeben.md"
-    },
-    {
-      "basename": "YCOM-Artikel-mit-Login-verknuepfen",
-      "path": "YCOM-Artikel-mit-Login-verknuepfen.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
