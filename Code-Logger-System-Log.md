@@ -44,6 +44,29 @@ rex_logger::factory()->debug('Debugmeldung');
 
 Die Bezeichnungen der Loglevel sind definiert in der Datei *redaxo/src/core/vendor/psr/log/Psr/Log/AbstractLogger.php*
 
+#### Anmerkung zu Möglichkeit 1
+
+Der Nachricht können durch Ersetzung weitere Informationen eingefügt werden, die mittels Array übergeben werden.
+Vorteil: Übersetzungen der Sprachdateien sind Unabhängig vom Code.
+
+Beispiel im Code:
+```php
+rex_logger::factory()->debug($this->i18n('addon_name_logmeldungtest'),['ID'=>'42']);
+```
+
+Sprachdatei:
+```
+addon_name_logmeldungtest = Dies ist die Logmeldung {ID}
+```
+
+Das Ersetzungsarray kann beliebig erweitert werden:
+```php
+rex_logger::factory()->debug($this->i18n('addon_name_logmeldungtest'),['ID'=>'42', 
+'userId' => $this->getUserId()]);
+```
+
+
+
 ### Möglichkeit 2
 
 [https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html](https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html)
