@@ -16,6 +16,36 @@ Gabs da nicht eine Möglichkeit einen Eintrag ins REX-Log zu schreiben?
 
 ## Antwort
 
+### Möglichkeit 1
+
+- Hinweistextfarbe **rot**:
+```php
+rex_logger::factory()->emergency('Emergencymeldung');
+rex_logger::factory()->alert('Alertmeldung');
+rex_logger::factory()->critical('Criticalmeldung');
+rex_logger::factory()->error('Errormeldung');
+```
+
+- Hinweistextfarbe **ocker**:
+```php
+rex_logger::factory()->warning('Warnungsmeldung');
+```
+
+- Hinweistextfarbe **blau**:
+```php
+rex_logger::factory()->notice('Noticemeldung');
+rex_logger::factory()->info('Infomeldung');
+```
+
+- Hinweistextfarbe **schwarz**:
+```php
+rex_logger::factory()->debug('Debugmeldung');
+```
+
+Die Bezeichnungen der Loglevel sind definiert in der Datei *redaxo/src/core/vendor/psr/log/Psr/Log/AbstractLogger.php*
+
+### Möglichkeit 2
+
 [https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html](https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html)
 
 Das kann dann so aussehen:  
@@ -57,3 +87,5 @@ rex_logger::factory()->log('Deprecated', 'Mein Text zum Event');
 ```
 
 *Anmerkung: die Farben können je nach Backend auch anders sein*
+
+
