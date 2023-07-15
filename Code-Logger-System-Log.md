@@ -16,9 +16,7 @@ Gabs da nicht eine Möglichkeit einen Eintrag ins REX-Log zu schreiben?
 
 ## Antwort
 
-Alles Nachfolgende bezieht sich auf die Klasse _rex-logger_
-Einzusehen hier:
-[https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html](https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html)
+Alles Nachfolgende bezieht sich auf die Klasse _rex-logger_. Einzusehen hier: [https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html](https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html)
 
 oder direkt in der Datei _redaxo/src/core/lib/util/logger.php_
 
