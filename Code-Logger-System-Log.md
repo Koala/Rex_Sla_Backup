@@ -16,6 +16,13 @@ Gabs da nicht eine Möglichkeit einen Eintrag ins REX-Log zu schreiben?
 
 ## Antwort
 
+Alles Nachfolgende bezieht sich auf die Klasse _rex-logger_
+Einzusehen hier:
+[https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html](https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html)
+
+oder direkt in der Datei _redaxo/src/core/lib/util/logger.php_
+
+
 ### Möglichkeit 1
 
 - Hinweistextfarbe **rot**:
@@ -69,8 +76,6 @@ rex_logger::factory()->debug($this->i18n('addon_name_logmeldungtest'),['ID'=>'42
 
 ### Möglichkeit 2
 
-[https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html](https://friendsofredaxo.github.io/phpdoc/classes/rex-logger.html)
-
 Das kann dann so aussehen:  
 ```php
 rex_logger::factory()->log('logevent', 'Mein Text zum Event');
@@ -112,3 +117,26 @@ rex_logger::factory()->log('Deprecated', 'Mein Text zum Event');
 *Anmerkung: die Farben können je nach Backend auch anders sein*
 
 
+### Möglichkeit 3
+
+- **rex_logger::logException**
+
+Beispiel:
+
+```php
+try {
+	$packagesFromInstaller = rex_install_packages::getAddPackages();
+} catch (rex_functional_exception $e) {
+    $errors[] = $e->getMessage
+	rex_logger::logException($e);
+}
+```
+
+
+- **rex_logger::logError**
+
+Beispiel:
+
+```php
+rex_logger::logError( E_WARNING, $message, 'Function: '.__FUNCTION__, __LINE__);
+```
