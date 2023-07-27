@@ -73,7 +73,7 @@
   "devMode": false,
   "templateFolderPath": "z_Vorlage",
   "announceUpdates": true,
-  "version": "1.0.2",
+  "version": "1.2.1",
   "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "",
