@@ -1,5 +1,5 @@
 ---
-tags: statistics
+tags: Statistik
 ---
 
 12.05.2023

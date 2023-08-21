@@ -1,5 +1,5 @@
 ---
-tags: EP, Extensionpoint
+tags: EP, Extensionpoint, ART_UPDATED, ART_CONTENT_UPDATED
 ---
 
 22.02.2023
@@ -8,7 +8,7 @@ tags: EP, Extensionpoint
 
 ## Frage
 
-Seh ich das richtig dass der EP  ```ART_UPDATED``` nicht aufgerufen wird wenn ich innerhalb eines Artikels etwas ändere (also z.B. einen Slice lösche oder hinzufüge) ?
+Seh ich das richtig dass der EP  `ART_UPDATED` nicht aufgerufen wird wenn ich innerhalb eines Artikels etwas ändere (also z.B. einen Slice lösche oder hinzufüge) ?
 
 ## Antwort
 

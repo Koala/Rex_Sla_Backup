@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: rex_formatter, intlDate
 ---
 
 05.06.2023

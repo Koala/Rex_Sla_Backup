@@ -1,5 +1,5 @@
 ---
-tags: sql, ctype
+tags: rex_sql, ctype
 ---
 
 08.02.2023

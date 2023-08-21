@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: rex_article
 ---
 
 19.08.2023

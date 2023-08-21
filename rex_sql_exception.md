@@ -1,5 +1,5 @@
 ---
-tags: sql
+tags: rex_sql
 ---
 
 08.02.2023

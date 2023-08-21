@@ -1,5 +1,5 @@
 ---
-Tags: Umleitung, Seitenschließung, Template
+Tags: Umleitung, Seitenschließung, Template, rex_article
 ---
 
 02.02.2023

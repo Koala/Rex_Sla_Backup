@@ -1,5 +1,5 @@
 ---
-tags: YFORM, PHP-Mailer
+tags: YForm, PHP-Mailer
 ---
 
 15.05.2023
