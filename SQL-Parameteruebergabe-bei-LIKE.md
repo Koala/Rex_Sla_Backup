@@ -1,5 +1,5 @@
 ---
-tags: sql, like, wildcards
+tags: rex_sql, like, wildcards
 ---
 
 20.02.2023
