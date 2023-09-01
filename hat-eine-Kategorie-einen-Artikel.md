@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: isOnline, isOffline
 ---
 
 31.08.2023
