@@ -51,7 +51,7 @@ Die Bezeichnungen der Loglevel sind definiert in der Datei *redaxo/src/core/vend
 
 #### Anmerkung zu Möglichkeit 1
 
-Der Nachricht können durch Ersetzung weitere Informationen eingefügt werden, die mittels Array übergeben werden.
+Der Nachricht können durch Ersetzung weitere Informationen eingefügt werden, die mittels Array übergeben werden.  
 Vorteil: Übersetzungen der Sprachdateien sind Unabhängig vom Code.
 
 Beispiel im Code:
